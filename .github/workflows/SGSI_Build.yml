@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://aabhfort3wzddued5ukw7yvjjyxec888.node.ppio.cloud:11970/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17_Pro/9.2.0.3/cn/20220424185838/7c4180a8/update.zip?f_ver=v1&max_age=7776000&r=XgcHKRdRHVxTACdaMSAGNRgeFjAeHhwQWgR6cS8zGSdXARZ2IgdLHlBGOFIvOwFhASwjKwtEC10HR2UZdW4XPhlBQ2tWWwZBAVhtAn5yTH8BEEdoXFtTSxocJVMnNRF%2BTBoDWQMWNwcPXEJaGTBZJSUaYQ%3D%3D&ppiouid=627cd77b84ccae00015a786f0e15ad48'
+        default: 'https://bigota.d.miui.com/22.5.10/miui_TUCANA_22.5.10_8e357e69d5_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'update.zip'
+        default: 'miui_TUCANA_22.5.10_8e357e69d5_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'flyme'
+        default: 'miui'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
